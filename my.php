@@ -6,4 +6,5 @@
  * Time: 下午10:34
  */
 $test = 'aass';
+$haha = 'hahahahah';
 echo $test;exit;
