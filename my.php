@@ -7,4 +7,5 @@
  */
 $test = 'aass';
 $test1 = 'ttt';
+$test2 = 'dfhgdjkf';
 echo $test;exit;
