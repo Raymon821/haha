@@ -7,4 +7,5 @@
  */
 $test = 'aass';
 $ss = 'ss';
+$shop = 'maomao';
 echo $test;exit;
