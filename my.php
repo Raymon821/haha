@@ -6,4 +6,5 @@
  * Time: 下午10:34
  */
 $test = 'aass';
+$ss = 'ss';
 echo $test;exit;
