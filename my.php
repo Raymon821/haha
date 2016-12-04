@@ -7,4 +7,5 @@
  */
 $test = 'aass';
 $ss1 = 'ss111122222';
+$zhangsan = 'zhangsan';
 echo $test;exit;
